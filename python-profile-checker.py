@@ -1,6 +1,6 @@
 name = input("Name: ")
 age = int(input("age: "))
-GPA = float(input("Enter you GPA (on a scale 4.0): "))
+GPA = float(input("Enter you GPA (on a scale 5.0): "))
 field = input ("Field of Interest:")
 graduated = input("have you graduated? ")
 
